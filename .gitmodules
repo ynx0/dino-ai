@@ -1,0 +1,3 @@
+[submodule "dino_env"]
+	path = dino_env
+	url = https://github.com/ynx0/t-rex-runner.git
